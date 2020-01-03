@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ce5cc36-5e1f-4edc-9802-ab727f98a018" name="Default Changelist" comment="update to run the project">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/WolfAssesment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/WolfAssesment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/TestSuite/AssesmentTests.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/TestSuite/AssesmentTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/TestSuite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.qa.testcases.CreateIDPageTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.qa.testcases.HomePageTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/WolfAssesment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/TestSuite/AssesmentTests.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/TestSuite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/TestSuite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/TestSuite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/TestSuite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/TestSuite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/TestSuite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/TestSuite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/TestSuite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/TestSuite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/TestSuite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideInfoMessages" value="true" />
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+    <option name="HIDE_INFO_MESSAGES" value="true" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" openResultsInEditor="true" userTempatePath="" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\mecer\eclipse-workspace\2019-12\WolfAssesment\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VqkDbrk3BJVgStBV4e6BeNE5qc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mecer\eclipse-workspace\2019-12\WolfAssesment\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mecer\eclipse-workspace\2019-12\WolfAssesment\src\test\java" />
+      <recent name="C:\Users\mecer\eclipse-workspace\2019-12\WolfAssesment\src\test\java\org\example" />
+      <recent name="C:\Users\mecer\eclipse-workspace\2019-12\WolfAssesment\src" />
+      <recent name="C:\Users\mecer\eclipse-workspace\2019-12\WolfAssesment\src\main\java" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn compile" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/mecer/eclipse-workspace/2019-12/WolfAssesment/src/resources/testng.xml">
+    <configuration name="AppsPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WolfAssesment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.testcases.AppsPageTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/mecer/eclipse-workspace/2019-12/WolfAssesment/src/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WolfAssesment" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/resources/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateIDPageTest.CreateWolfID" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WolfAssesment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.testcases.CreateIDPageTest" />
+      <option name="METHOD_NAME" value="CreateWolfID" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateIDPageTest.createIDPageTitleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WolfAssesment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.testcases.CreateIDPageTest" />
+      <option name="METHOD_NAME" value="createIDPageTitleTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest.TypeInSearchBox" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="WolfAssesment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.testcases.HomePageTest" />
+      <option name="METHOD_NAME" value="TypeInSearchBox" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/mecer/eclipse-workspace/2019-12/WolfAssesment/src/resources/testng.xml" />
+        <item itemvalue="TestNG.HomePageTest.TypeInSearchBox" />
+        <item itemvalue="TestNG.CreateIDPageTest.CreateWolfID" />
+        <item itemvalue="TestNG.AppsPageTest" />
+        <item itemvalue="TestNG.CreateIDPageTest.createIDPageTitleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ce5cc36-5e1f-4edc-9802-ab727f98a018" name="Default Changelist" comment="" />
+      <created>1577987894054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577987894054</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update to run the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="update to run the project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577989040591">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1577989040591" />
+    <state x="100" y="100" width="1080" height="480" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1577999697550">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="100" y="100" width="1080" height="480" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1577999697550" />
+    <state x="321" y="76" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578008216799">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="321" y="76" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1578008216799" />
+    <state x="246" y="0" key="CommitChangelistDialog2" timestamp="1578047250046">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="246" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1578047250046" />
+    <state width="1222" height="201" key="GridCell.Tab.0.bottom" timestamp="1578045229598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="201" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578045229598" />
+    <state width="1222" height="201" key="GridCell.Tab.0.center" timestamp="1578045229598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="201" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1578045229598" />
+    <state width="1222" height="201" key="GridCell.Tab.0.left" timestamp="1578045229598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="201" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1578045229598" />
+    <state width="1222" height="201" key="GridCell.Tab.0.right" timestamp="1578045229598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="201" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1578045229598" />
+    <state width="1222" height="201" key="GridCell.Tab.1.bottom" timestamp="1578045229598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="201" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578045229598" />
+    <state width="1222" height="201" key="GridCell.Tab.1.center" timestamp="1578045229598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="201" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1578045229598" />
+    <state width="1222" height="201" key="GridCell.Tab.1.left" timestamp="1578045229598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="201" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1578045229598" />
+    <state width="1222" height="201" key="GridCell.Tab.1.right" timestamp="1578045229598">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="201" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1578045229598" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1577988830081">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1577988830081" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1578047130275">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1578047130275" />
+    <state x="460" y="167" key="export.test.results" timestamp="1577990558132">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="460" y="167" key="export.test.results/0.0.1280.680@0.0.1280.680" timestamp="1577990558132" />
+    <state x="297" y="153" width="672" height="677" key="run.anything.popup" timestamp="1578044239514">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="153" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1578044239514" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WolfAssesment$HomePageTest_Examples.ic" NAME="HomePageTest.Examples Coverage Results" MODIFIED="1577998385257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.qa.testcases.*</FILTER>
+    </SUITE>
+  </component>
+</project>

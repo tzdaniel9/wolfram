@@ -1,0 +1,9 @@
+com\qa\pages\SignInPage.class
+com\qa\util\TestUtil.class
+com\qa\pages\HomePage.class
+com\qa\pages\UpgradeToProPage.class
+com\qa\pages\AppsPage.class
+com\qa\pages\SignUpPage.class
+com\qa\pages\CreateIDPage.class
+com\TestBase\TestBase.class
+com\qa\pages\TourPage.class
