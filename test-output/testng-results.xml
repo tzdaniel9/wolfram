@@ -2,24 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default Suite" duration-ms="28897" started-at="2020-01-03T14:24:28 CAT" finished-at="2020-01-03T14:24:57 CAT">
+  <suite name="Default Suite" duration-ms="49056" started-at="2020-01-04T00:55:05 CAT" finished-at="2020-01-04T00:55:54 CAT">
     <groups>
     </groups>
-    <test name="WolfAssesment" duration-ms="28897" started-at="2020-01-03T14:24:28 CAT" finished-at="2020-01-03T14:24:57 CAT">
-      <class name="com.qa.testcases.HomePageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.HomePageTest@4de8b406]" name="setUp" is-config="true" duration-ms="21814" started-at="2020-01-03T14:24:28 CAT" finished-at="2020-01-03T14:24:50 CAT">
+    <test name="WolfAssesment" duration-ms="49056" started-at="2020-01-04T00:55:05 CAT" finished-at="2020-01-04T00:55:54 CAT">
+      <class name="com.qa.testcases.AppsPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.AppsPageTest@6a2bcfcb]" name="setUp" is-config="true" duration-ms="22453" started-at="2020-01-04T00:55:05 CAT" finished-at="2020-01-04T00:55:27 CAT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="TypeInSearchBox()[pri:0, instance:com.qa.testcases.HomePageTest@4de8b406]" name="TypeInSearchBox" duration-ms="6179" started-at="2020-01-03T14:24:50 CAT" finished-at="2020-01-03T14:24:56 CAT">
+        <test-method status="PASS" signature="MobileAppNavTest()[pri:0, instance:com.qa.testcases.AppsPageTest@6a2bcfcb]" name="MobileAppNavTest" duration-ms="26519" started-at="2020-01-04T00:55:27 CAT" finished-at="2020-01-04T00:55:54 CAT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TypeInSearchBox -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.HomePageTest@4de8b406]" name="tearDown" is-config="true" duration-ms="811" started-at="2020-01-03T14:24:56 CAT" finished-at="2020-01-03T14:24:57 CAT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.qa.testcases.HomePageTest -->
+        </test-method> <!-- MobileAppNavTest -->
+      </class> <!-- com.qa.testcases.AppsPageTest -->
     </test> <!-- WolfAssesment -->
   </suite> <!-- Default Suite -->
 </testng-results>

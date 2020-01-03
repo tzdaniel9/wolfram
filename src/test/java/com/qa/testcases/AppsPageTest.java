@@ -38,10 +38,10 @@ public class AppsPageTest extends TestBase {
 
     @Test
     public void MobileAppNavTest() {
-        driver.findElement(By.xpath("//span[contains(text(),'APPS')]")).click();
-        driver.findElement(By.xpath("//span[@class='_3ci9dP6l']//span[contains(text(),'Mobile Apps')]")).click();
-        driver.findElement(By.xpath("//a[contains(text(),'Android')]")).click();
-        driver.findElement(By.id("market")).click();
+        appsPage.clickOnAppsLink();
+        appsPage.clickOnMobileApps();
+        appsPage.goToAndroidLink();
+        appsPage.goToMarket();
     }
 }
 

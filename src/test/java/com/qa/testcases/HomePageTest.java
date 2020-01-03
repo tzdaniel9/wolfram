@@ -75,7 +75,7 @@ public class HomePageTest extends TestBase {
         // notebooks i need to have  a pro account
 
 //        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-//        homePage.clickNoteBookBtn1();
+        homePage.clickNoteBookBtn1();
 //        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 //        homePage.clickNoteBookBtn2();
 //        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);

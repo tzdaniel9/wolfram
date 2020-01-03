@@ -26,6 +26,12 @@ public class AppsPage extends TestBase {
     @FindBy(xpath = "//span[contains(text(),'ALL PRODUCTS »')]")
     WebElement AllProducts;
 
+    @FindBy(xpath = "//a[contains(text(),'Android')]")
+    WebElement androidLink;
+
+    @FindBy(id = "market")
+    WebElement market;
+
     public AppsPage() {
         PageFactory.initElements(driver, this);
     }
@@ -43,8 +49,8 @@ public class AppsPage extends TestBase {
     }
 
     public void clickOnAppsLink() {
-        Actions action = new Actions(driver);
-        action.moveToElement(Apps).build().perform();
+//        Actions action = new Actions(driver);
+//        action.moveToElement(Apps).build().perform();
         Apps.click();
     }
 
@@ -54,6 +60,14 @@ public class AppsPage extends TestBase {
 
     public void clickOnMobileApps() {
         MobileApps.click();
+    }
+
+    public  void goToAndroidLink(){
+        androidLink.click();
+    }
+
+    public void goToMarket(){
+        market.click();
     }
 }
 
