@@ -2,88 +2,62 @@
 <testng-results skipped="0" failed="1" ignored="0" total="6" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="TestSuite" duration-ms="317495" started-at="2020-01-03T11:40:55 CAT" finished-at="2020-01-03T11:46:12 CAT">
+  <suite name="TestSuite" duration-ms="216092" started-at="2020-01-03T12:39:54 CAT" finished-at="2020-01-03T12:43:30 CAT">
     <groups>
     </groups>
-    <test name="AssesmentTests" duration-ms="317495" started-at="2020-01-03T11:40:55 CAT" finished-at="2020-01-03T11:46:12 CAT">
+    <test name="AssesmentTests" duration-ms="216092" started-at="2020-01-03T12:39:54 CAT" finished-at="2020-01-03T12:43:30 CAT">
       <class name="com.qa.testcases.CreateIDPageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.CreateIDPageTest@4de8b406]" name="setUp" is-config="true" duration-ms="30241" started-at="2020-01-03T11:44:05 CAT" finished-at="2020-01-03T11:44:35 CAT">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.CreateIDPageTest@4de8b406]" name="setUp" is-config="true" duration-ms="19124" started-at="2020-01-03T12:42:24 CAT" finished-at="2020-01-03T12:42:43 CAT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="CreateWolfID()[pri:0, instance:com.qa.testcases.CreateIDPageTest@4de8b406]" name="CreateWolfID" duration-ms="36641" started-at="2020-01-03T11:44:35 CAT" finished-at="2020-01-03T11:45:11 CAT">
+        <test-method status="PASS" signature="CreateWolfID()[pri:0, instance:com.qa.testcases.CreateIDPageTest@4de8b406]" name="CreateWolfID" duration-ms="11212" started-at="2020-01-03T12:42:43 CAT" finished-at="2020-01-03T12:42:55 CAT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CreateWolfID -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.CreateIDPageTest@4de8b406]" name="tearDown" is-config="true" duration-ms="1940" started-at="2020-01-03T11:45:11 CAT" finished-at="2020-01-03T11:45:13 CAT">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.CreateIDPageTest@4de8b406]" name="tearDown" is-config="true" duration-ms="749" started-at="2020-01-03T12:42:55 CAT" finished-at="2020-01-03T12:42:55 CAT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.CreateIDPageTest@4de8b406]" name="setUp" is-config="true" duration-ms="45260" started-at="2020-01-03T11:45:13 CAT" finished-at="2020-01-03T11:45:59 CAT">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.CreateIDPageTest@4de8b406]" name="setUp" is-config="true" duration-ms="23684" started-at="2020-01-03T12:42:55 CAT" finished-at="2020-01-03T12:43:19 CAT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="createIDPageTitleTest()[pri:0, instance:com.qa.testcases.CreateIDPageTest@4de8b406]" name="createIDPageTitleTest" duration-ms="12166" started-at="2020-01-03T11:45:59 CAT" finished-at="2020-01-03T11:46:11 CAT">
+        <test-method status="PASS" signature="createIDPageTitleTest()[pri:0, instance:com.qa.testcases.CreateIDPageTest@4de8b406]" name="createIDPageTitleTest" duration-ms="10191" started-at="2020-01-03T12:43:19 CAT" finished-at="2020-01-03T12:43:29 CAT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createIDPageTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.CreateIDPageTest@4de8b406]" name="tearDown" is-config="true" duration-ms="1264" started-at="2020-01-03T11:46:11 CAT" finished-at="2020-01-03T11:46:12 CAT">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.CreateIDPageTest@4de8b406]" name="tearDown" is-config="true" duration-ms="770" started-at="2020-01-03T12:43:29 CAT" finished-at="2020-01-03T12:43:30 CAT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.qa.testcases.CreateIDPageTest -->
       <class name="com.qa.testcases.HomePageTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.HomePageTest@6a2bcfcb]" name="setUp" is-config="true" duration-ms="52692" started-at="2020-01-03T11:40:55 CAT" finished-at="2020-01-03T11:41:47 CAT">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.HomePageTest@6a2bcfcb]" name="setUp" is-config="true" duration-ms="46070" started-at="2020-01-03T12:39:54 CAT" finished-at="2020-01-03T12:40:40 CAT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="Examples()[pri:0, instance:com.qa.testcases.HomePageTest@6a2bcfcb]" name="Examples" duration-ms="28926" started-at="2020-01-03T11:41:47 CAT" finished-at="2020-01-03T11:42:16 CAT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Examples -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.HomePageTest@6a2bcfcb]" name="tearDown" is-config="true" duration-ms="974" started-at="2020-01-03T11:42:16 CAT" finished-at="2020-01-03T11:42:17 CAT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.HomePageTest@6a2bcfcb]" name="setUp" is-config="true" duration-ms="22515" started-at="2020-01-03T11:42:17 CAT" finished-at="2020-01-03T11:42:40 CAT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="ExtendedKeyboardTest()[pri:0, instance:com.qa.testcases.HomePageTest@6a2bcfcb]" name="ExtendedKeyboardTest" duration-ms="7021" started-at="2020-01-03T11:42:40 CAT" finished-at="2020-01-03T11:42:47 CAT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- ExtendedKeyboardTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.HomePageTest@6a2bcfcb]" name="tearDown" is-config="true" duration-ms="1359" started-at="2020-01-03T11:42:47 CAT" finished-at="2020-01-03T11:42:48 CAT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.HomePageTest@6a2bcfcb]" name="setUp" is-config="true" duration-ms="17705" started-at="2020-01-03T11:42:48 CAT" finished-at="2020-01-03T11:43:06 CAT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="FAIL" signature="TypeInSearchBox()[pri:0, instance:com.qa.testcases.HomePageTest@6a2bcfcb]" name="TypeInSearchBox" duration-ms="15674" started-at="2020-01-03T11:43:06 CAT" finished-at="2020-01-03T11:43:22 CAT">
-          <exception class="org.openqa.selenium.NoSuchElementException">
+        <test-method status="FAIL" signature="Examples()[pri:0, instance:com.qa.testcases.HomePageTest@6a2bcfcb]" name="Examples" duration-ms="26237" started-at="2020-01-03T12:40:40 CAT" finished-at="2020-01-03T12:41:06 CAT">
+          <exception class="org.openqa.selenium.StaleElementReferenceException">
             <message>
-              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='_3ci9dP6l']//span[contains(text(),'Plain Text')]"}
+              <![CDATA[stale element reference: element is not attached to the page document
   (Session info: chrome=79.0.3945.88)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'DANY-PC', ip: '192.168.8.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.88, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\mecer\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60985}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: f8dcdb0231d5c95ba24843146610023d
-*** Element info: {Using=xpath, value=//span[@class='_3ci9dP6l']//span[contains(text(),'Plain Text')]}]]>
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.88, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\mecer\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61697}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 993cfe95bb173256ef02884f6335365d]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='_3ci9dP6l']//span[contains(text(),'Plain Text')]"}
+              <![CDATA[org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
   (Session info: chrome=79.0.3945.88)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'DANY-PC', ip: '192.168.8.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_172'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.88, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\mecer\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60985}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: f8dcdb0231d5c95ba24843146610023d
-*** Element info: {Using=xpath, value=//span[@class='_3ci9dP6l']//span[contains(text(),'Plain Text')]}
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.88, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\Users\mecer\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61697}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 993cfe95bb173256ef02884f6335365d
 at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -94,11 +68,9 @@ at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCo
 at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
 at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-at com.qa.testcases.HomePageTest.TypeInSearchBox(HomePageTest.java:69)
+at org.openqa.selenium.remote.RemoteWebDriver.perform(RemoteWebDriver.java:618)
+at org.openqa.selenium.interactions.Actions$BuiltAction.perform(Actions.java:639)
+at com.qa.testcases.HomePageTest.Examples(HomePageTest.java:101)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -128,23 +100,47 @@ at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
 at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          </exception> <!-- org.openqa.selenium.StaleElementReferenceException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TypeInSearchBox -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.HomePageTest@6a2bcfcb]" name="tearDown" is-config="true" duration-ms="889" started-at="2020-01-03T11:43:22 CAT" finished-at="2020-01-03T11:43:23 CAT">
+        </test-method> <!-- Examples -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.HomePageTest@6a2bcfcb]" name="tearDown" is-config="true" duration-ms="827" started-at="2020-01-03T12:41:06 CAT" finished-at="2020-01-03T12:41:07 CAT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.HomePageTest@6a2bcfcb]" name="setUp" is-config="true" duration-ms="38579" started-at="2020-01-03T11:43:23 CAT" finished-at="2020-01-03T11:44:01 CAT">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.HomePageTest@6a2bcfcb]" name="setUp" is-config="true" duration-ms="23732" started-at="2020-01-03T12:41:07 CAT" finished-at="2020-01-03T12:41:31 CAT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:0, instance:com.qa.testcases.HomePageTest@6a2bcfcb]" name="verifyHomePageTitleTest" duration-ms="1769" started-at="2020-01-03T11:44:01 CAT" finished-at="2020-01-03T11:44:03 CAT">
+        <test-method status="PASS" signature="ExtendedKeyboardTest()[pri:0, instance:com.qa.testcases.HomePageTest@6a2bcfcb]" name="ExtendedKeyboardTest" duration-ms="5801" started-at="2020-01-03T12:41:31 CAT" finished-at="2020-01-03T12:41:37 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExtendedKeyboardTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.HomePageTest@6a2bcfcb]" name="tearDown" is-config="true" duration-ms="1530" started-at="2020-01-03T12:41:37 CAT" finished-at="2020-01-03T12:41:38 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.HomePageTest@6a2bcfcb]" name="setUp" is-config="true" duration-ms="19176" started-at="2020-01-03T12:41:38 CAT" finished-at="2020-01-03T12:41:57 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TypeInSearchBox()[pri:0, instance:com.qa.testcases.HomePageTest@6a2bcfcb]" name="TypeInSearchBox" duration-ms="4856" started-at="2020-01-03T12:41:57 CAT" finished-at="2020-01-03T12:42:02 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TypeInSearchBox -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.HomePageTest@6a2bcfcb]" name="tearDown" is-config="true" duration-ms="782" started-at="2020-01-03T12:42:02 CAT" finished-at="2020-01-03T12:42:03 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.HomePageTest@6a2bcfcb]" name="setUp" is-config="true" duration-ms="20370" started-at="2020-01-03T12:42:03 CAT" finished-at="2020-01-03T12:42:23 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:0, instance:com.qa.testcases.HomePageTest@6a2bcfcb]" name="verifyHomePageTitleTest" duration-ms="37" started-at="2020-01-03T12:42:23 CAT" finished-at="2020-01-03T12:42:23 CAT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHomePageTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.HomePageTest@6a2bcfcb]" name="tearDown" is-config="true" duration-ms="1701" started-at="2020-01-03T11:44:03 CAT" finished-at="2020-01-03T11:44:05 CAT">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.testcases.HomePageTest@6a2bcfcb]" name="tearDown" is-config="true" duration-ms="775" started-at="2020-01-03T12:42:23 CAT" finished-at="2020-01-03T12:42:24 CAT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

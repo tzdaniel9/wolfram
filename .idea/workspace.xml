@@ -2,59 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ce5cc36-5e1f-4edc-9802-ab727f98a018" name="Default Changelist" comment="update to run the project">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/WolfAssesment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/WolfAssesment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/TestSuite/AssesmentTests.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/TestSuite/AssesmentTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/TestSuite/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/bullet_point.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/collapseall.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/failed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/jquery-1.7.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.qa.testcases.CreateIDPageTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.qa.testcases.HomePageTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/navigator-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/WolfAssesment.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/TestSuite/AssesmentTests.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/TestSuite/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/TestSuite/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/TestSuite/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/TestSuite/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/TestSuite/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/TestSuite/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/TestSuite/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/TestSuite/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/TestSuite/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/TestSuite/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/passed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/skipped.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/testcases/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/testcases/HomePageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/TestSuite/AssesmentTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/TestSuite/AssesmentTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/TestSuite/AssesmentTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/TestSuite/AssesmentTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/TestSuite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/TestSuite/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.qa.testcases.CreateIDPageTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.qa.testcases.CreateIDPageTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.qa.testcases.HomePageTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.qa.testcases.HomePageTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/TestSuite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/TestSuite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/TestSuite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/TestSuite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/TestSuite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/TestSuite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -296,6 +257,14 @@
       <option name="presentableId" value="Default" />
       <updated>1577987894054</updated>
     </task>
+    <task id="LOCAL-00001" summary="update to run the project">
+      <created>1578047318139</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578047318139</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -315,26 +284,26 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="321" y="76" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1578008216799" />
-    <state x="246" y="0" key="CommitChangelistDialog2" timestamp="1578047250046">
+    <state x="246" y="0" key="CommitChangelistDialog2" timestamp="1578048586951">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="246" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1578047250046" />
-    <state width="1222" height="201" key="GridCell.Tab.0.bottom" timestamp="1578045229598">
+    <state x="246" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1578048586951" />
+    <state width="1222" height="161" key="GridCell.Tab.0.bottom" timestamp="1578048358829">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="201" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578045229598" />
-    <state width="1222" height="201" key="GridCell.Tab.0.center" timestamp="1578045229598">
+    <state width="1222" height="161" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578048358829" />
+    <state width="1222" height="161" key="GridCell.Tab.0.center" timestamp="1578048358829">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="201" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1578045229598" />
-    <state width="1222" height="201" key="GridCell.Tab.0.left" timestamp="1578045229598">
+    <state width="1222" height="161" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1578048358829" />
+    <state width="1222" height="161" key="GridCell.Tab.0.left" timestamp="1578048358829">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="201" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1578045229598" />
-    <state width="1222" height="201" key="GridCell.Tab.0.right" timestamp="1578045229598">
+    <state width="1222" height="161" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1578048358829" />
+    <state width="1222" height="161" key="GridCell.Tab.0.right" timestamp="1578048358829">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="201" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1578045229598" />
+    <state width="1222" height="161" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1578048358829" />
     <state width="1222" height="201" key="GridCell.Tab.1.bottom" timestamp="1578045229598">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -359,6 +328,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1578047130275" />
+    <state x="450" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578048468833">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="450" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1578048468833" />
     <state x="460" y="167" key="export.test.results" timestamp="1577990558132">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

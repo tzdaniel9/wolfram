@@ -3,6 +3,7 @@ package com.qa.testcases;
 import com.TestBase.TestBase;
 import com.qa.pages.*;
 import com.qa.util.TestUtil;
+import com.sun.xml.internal.bind.v2.TODO;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
@@ -70,9 +71,12 @@ public class HomePageTest extends TestBase {
 //        homePage.clickPlainText();
         driver.findElement(By.xpath("//section[@class='_1jPLqSjg']//section[1]//div[2]")).click();
         driver.findElement(By.xpath("//span[contains(text(),'Continue in computable notebook')]")).click();
-////        homePage.clickContinueInComputableNotebookLink();
-////        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-////        driver.findElement(By.cssSelector("[data-box-view-id='c79'] ._3V_l-auOpaBwWbhbhpIImO"));
+
+      //TODO  //The below code is commented because it shows that i dont have permission to proceed to the
+        // notebooks i need to have  a pro account
+//        homePage.clickContinueInComputableNotebookLink();
+//        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+//        driver.findElement(By.cssSelector("[data-box-view-id='c79'] ._3V_l-auOpaBwWbhbhpIImO"));
 //        driver.findElement(By.xpath("//a[contains(text(),'Help')]")).click();
 //        driver.findElement(By.xpath("//a[contains(text(),'Documentation')]")).click();
 //        driver.findElement(By.xpath("//a[@innertext='Strings & Text']")).click();

@@ -5,7 +5,7 @@
     <classes>
       <class name="com.qa.testcases.HomePageTest">
         <methods>
-          <include name="TypeInSearchBox"/>
+          <include name="Examples"/>
           <include name="tearDown"/>
           <include name="setUp"/>
         </methods>
