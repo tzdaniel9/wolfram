@@ -219,6 +219,28 @@ public class HomePage extends TestBase {
     WebElement sqrtBtn;
 
 
+    @FindBy(css = "[data-box-view-id='c79'] ._3V_l-auOpaBwWbhbhpIImO")
+    WebElement notebookButton1;
+
+    @FindBy(xpath = "//div[10]/div[@safeclass~'\\bcell-wrapper\\b']/div[@safeclass~'\\bcell-content\\b']/div[@safeclass~'\\blines\\b']/table[@safeclass~'\\bpa\\b']//div[@safeclass~'\\bTooltipBoxContainer\\b.*\\bpa\\b']//div[@safeclass~'\\bButtonBoxContainer\\b.*\\bnb-control\\b.*\\bpa\\b']/div[@safeclass~'\\bpa\\b']//div[@safeclass~'\\bStyleBoxContainer\\b.*\\bpa\\b']/div[@safeclass~'\\bpa\\b']//div[@safeclass~'\\blines\\b']/div[@safeclass~'\\bpa\\b']/?/?/div[@safeclass~'\\b_3V_l-auOpaBwWbhbhpIImO\\b']")
+    WebElement notebookButton2;
+
+
+    @FindBy(xpath = "//a[contains(text(),'Help')]")
+    WebElement helpInNoteBook;
+
+    @FindBy(xpath = "//a[contains(text(),'Documentation')]")
+    WebElement documentation;
+
+    @FindBy(xpath = "//a[@innertext='Strings & Text']")
+            WebElement StringsText;
+
+    @FindBy(xpath = "//a[@innertext='String Manipulation'][2]")
+    WebElement StringManipulation;
+
+    @FindBy(xpath = "//a[@innertext='String Patterns ']")
+    WebElement StringPatterns;
+
 
     // Initializing the Page Objects:
     public HomePage() {
@@ -234,10 +256,6 @@ public class HomePage extends TestBase {
     }
 
 
-    //public boolean verifyCorrectUserName(){
-//	return userNameLabel.isDisplayed();
-//}
-//
     public void InputSearchBox() {
         searchBox.sendKeys("2 + 2");
     }
@@ -265,30 +283,6 @@ public class HomePage extends TestBase {
     }
 
 
-    //  public String enterInfo() {
-// searchBox.sendKeys(prop.getProperty("i"));
-// searchBox.sendKeys(prop.getProperty("addition"));
-// searchBox.sendKeys(prop.getProperty("j").toString());
-    //}
-
-
-    //
-//public DealsPage clickOnDealsLink(){
-//	dealsLink.click();
-//	return new DealsPage();
-//}
-//
-//public TasksPage clickOnTasksLink(){
-//	tasksLink.click();
-//	return new TasksPage();
-//}
-//
-//public void clickOnNewContactLink(){
-//	Actions action = new Actions(driver);
-//	action.moveToElement(contactsLink).build().perform();
-//	newContactLink.click();
-//	
-//}
     public void goToSearchBox() {
         searchBox.sendKeys("2+2");
     }
@@ -519,16 +513,44 @@ public class HomePage extends TestBase {
         enlarge.click();
     }
 
-    public  void goToMarvinGayeLink(){
+    public void goToMarvinGayeLink() {
         MarvinGaye.click();
     }
 
-    public void goToShowTrigonometricForm(){
+    public void goToShowTrigonometricForm() {
         ShowTrigonometricForm.click();
     }
 
-    public void goToSqrtFn(){
+    public void goToSqrtFn() {
         sqrtBtn.click();
+    }
+
+    public void clickNoteBookBtn1() {
+        notebookButton1.click();
+    }
+
+    public void clickNoteBookBtn2() {
+        notebookButton2.click();
+    }
+
+    public void goToHelpNotebook() {
+        helpInNoteBook.click();
+    }
+
+    public void goToDocumentation(){
+        documentation.click();
+    }
+
+    public void  goToStringAndText(){
+        StringsText.click();
+    }
+
+    public  void goToStringManipulation(){
+        StringManipulation.click();
+    }
+
+    public void goToStringPatterns(){
+        StringPatterns.click();
     }
 
 

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [TestSuite]">
-  <test thread-count="2" name="AssesmentTests(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test thread-count="5" name="WolfAssesment(failed)">
     <classes>
       <class name="com.qa.testcases.HomePageTest">
         <methods>
-          <include name="Examples"/>
+          <include name="TypeInSearchBox"/>
           <include name="tearDown"/>
           <include name="setUp"/>
         </methods>
       </class> <!-- com.qa.testcases.HomePageTest -->
     </classes>
-  </test> <!-- AssesmentTests(failed) -->
-</suite> <!-- Failed suite [TestSuite] -->
+  </test> <!-- WolfAssesment(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

@@ -58,52 +58,53 @@ public class HomePageTest extends TestBase {
 
     @Test
     public void TypeInSearchBox() {
-        driver.findElement(By.xpath("//input[@placeholder='Enter what you want to calculate or know about']")).sendKeys("2 + 2");
-//        homePage.goToSearchBox();
-        driver.findElement(By.xpath("//button[@class='_2HkkNXzH _1caL4O8E _3nvo6gir']//*[@class='_3YyOB_vi']")).click();
-//        homePage.clickSearchButton();
+//        driver.findElement(By.xpath("//input[@placeholder='Enter what you want to calculate or know about']")).sendKeys("2 + 2");
+        homePage.goToSearchBox();
+//        driver.findElement(By.xpath("//button[@class='_2HkkNXzH _1caL4O8E _3nvo6gir']//*[@class='_3YyOB_vi']")).click();
+        homePage.clickSearchButton();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         Actions action = new Actions(driver);
         WebElement target = driver.findElement(By.className("_3k-JE4Gq"));
         target.click();
         action.moveToElement(target).build().perform();
-        driver.findElement(By.xpath("//span[@class='_3ci9dP6l']//span[contains(text(),'Plain Text')]")).click();
-//        homePage.clickPlainText();
+        homePage.clickPlainText();
         driver.findElement(By.xpath("//section[@class='_1jPLqSjg']//section[1]//div[2]")).click();
-        driver.findElement(By.xpath("//span[contains(text(),'Continue in computable notebook')]")).click();
 
-      //TODO  //The below code is commented because it shows that i dont have permission to proceed to the
+        homePage.clickContinueInComputableNotebookLink();
+        //TODO  //The below code is commented because it shows that i dont have permission to proceed to the
         // notebooks i need to have  a pro account
-//        homePage.clickContinueInComputableNotebookLink();
+
 //        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-//        driver.findElement(By.cssSelector("[data-box-view-id='c79'] ._3V_l-auOpaBwWbhbhpIImO"));
-//        driver.findElement(By.xpath("//a[contains(text(),'Help')]")).click();
-//        driver.findElement(By.xpath("//a[contains(text(),'Documentation')]")).click();
-//        driver.findElement(By.xpath("//a[@innertext='Strings & Text']")).click();
-//        driver.findElement(By.xpath("//a[@innertext='String Manipulation'][2]")).click();
-//        driver.findElement(By.xpath("//a[@innertext='String Patterns ']")).click();
+//        homePage.clickNoteBookBtn1();
+//        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+//        homePage.clickNoteBookBtn2();
+//        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+//
+////        driver.findElement(By.xpath("//a[contains(text(),'Help')]")).click();
+//        homePage.goToHelpNotebook();
+////        driver.findElement(By.xpath("//a[contains(text(),'Documentation')]")).click();
+//        homePage.goToDocumentation();
+////        driver.findElement(By.xpath("//a[@innertext='Strings & Text']")).click();
+//        homePage.goToStringAndText();
+////        driver.findElement(By.xpath("//a[@innertext='String Manipulation'][2]")).click();
+//        homePage.goToStringManipulation();
+////        driver.findElement(By.xpath("//a[@innertext='String Patterns ']")).click();
+//        homePage.goToStringPatterns();
 
 
     }
 
     @Test
     public void Examples() {
-//        driver.findElement(By.xpath("//span[contains(text(),'Examples')]")).click();
         homePage.goToExamples();
-//        driver.findElement(By.xpath("//a[contains(text(),'Society & Culture')]")).click();
         homePage.goToSocietyAndCulture();
-//        driver.findElement(By.xpath("//a[@class='subpage-section-title'][contains(text(),'People')]")).click();
         homePage.goToPeople();
-//        driver.findElement(By.linkText("Marvin Gaye")).click();
         homePage.goToMarvinGayeLink();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         Actions action = new Actions(driver);
-//        WebElement target = driver.findElement(By.xpath("//section[@class='_3k-JE4Gq CYPpWSLM']"));
-//        WebElement target = driver.findElement(By.cssSelector(".CYPpWSLM._3k-JE4Gq > ._2yjzGRtP"));
         WebElement target = driver.findElement(By.className("_3k-JE4Gq"));
         target.click();
         action.moveToElement(target).build().perform();
-//        driver.findElement(By.xpath("//span[contains(text(),'Enlarge')]")).click();
         homePage.goToEnlarge();
 
     }
@@ -116,7 +117,6 @@ public class HomePageTest extends TestBase {
 //        homePage.goToSqrtFn();
         driver.findElement(By.xpath("//input[@placeholder='Enter what you want to calculate or know about']")).sendKeys("25");
         homePage.clickSearchButton();
-//        driver.findElement(By.xpath("//span[contains(text(),'Show trigonometric form')]")).click();
         homePage.goToShowTrigonometricForm();
     }
 

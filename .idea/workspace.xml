@@ -3,17 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="1ce5cc36-5e1f-4edc-9802-ab727f98a018" name="Default Changelist" comment="update to run the project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/pages/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/testcases/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/testcases/HomePageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/TestSuite/AssesmentTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/TestSuite/AssesmentTests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/TestSuite/AssesmentTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/TestSuite/AssesmentTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/TestSuite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/TestSuite/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/WolfAssesment.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/WolfAssesment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Default Suite/WolfAssesment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Default Suite/WolfAssesment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.qa.testcases.CreateIDPageTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.qa.testcases.CreateIDPageTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-com.qa.testcases.HomePageTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-com.qa.testcases.HomePageTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/TestSuite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/TestSuite/classes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/TestSuite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/TestSuite/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/old/TestSuite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/TestSuite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
     </list>
@@ -80,7 +79,7 @@
       <command value="mvn compile" />
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/mecer/eclipse-workspace/2019-12/WolfAssesment/src/resources/testng.xml">
+  <component name="RunManager" selected="TestNG.HomePageTest.TypeInSearchBox">
     <configuration name="AppsPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="WolfAssesment" />
       <extension name="coverage">
@@ -226,8 +225,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/mecer/eclipse-workspace/2019-12/WolfAssesment/src/resources/testng.xml" />
         <item itemvalue="TestNG.HomePageTest.TypeInSearchBox" />
+        <item itemvalue="TestNG.C:/Users/mecer/eclipse-workspace/2019-12/WolfAssesment/src/resources/testng.xml" />
         <item itemvalue="TestNG.CreateIDPageTest.CreateWolfID" />
         <item itemvalue="TestNG.AppsPageTest" />
         <item itemvalue="TestNG.CreateIDPageTest.createIDPageTitleTest" />
@@ -264,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578047318139</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update to run the project">
+      <created>1578048637936</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578048637936</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -284,26 +290,26 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="321" y="76" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1578008216799" />
-    <state x="246" y="0" key="CommitChangelistDialog2" timestamp="1578048586951">
+    <state x="246" y="0" key="CommitChangelistDialog2" timestamp="1578089649717">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="246" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1578048586951" />
-    <state width="1222" height="161" key="GridCell.Tab.0.bottom" timestamp="1578048358829">
+    <state x="246" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1578089649717" />
+    <state width="1222" height="161" key="GridCell.Tab.0.bottom" timestamp="1578054266208">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="161" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578048358829" />
-    <state width="1222" height="161" key="GridCell.Tab.0.center" timestamp="1578048358829">
+    <state width="1222" height="161" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1578054266208" />
+    <state width="1222" height="161" key="GridCell.Tab.0.center" timestamp="1578054266208">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="161" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1578048358829" />
-    <state width="1222" height="161" key="GridCell.Tab.0.left" timestamp="1578048358829">
+    <state width="1222" height="161" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1578054266208" />
+    <state width="1222" height="161" key="GridCell.Tab.0.left" timestamp="1578054266207">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="161" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1578048358829" />
-    <state width="1222" height="161" key="GridCell.Tab.0.right" timestamp="1578048358829">
+    <state width="1222" height="161" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1578054266207" />
+    <state width="1222" height="161" key="GridCell.Tab.0.right" timestamp="1578054266208">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="161" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1578048358829" />
+    <state width="1222" height="161" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1578054266208" />
     <state width="1222" height="201" key="GridCell.Tab.1.bottom" timestamp="1578045229598">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -324,10 +330,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1577988830081" />
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1578047130275">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1578048650733">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1578047130275" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1578048650733" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1578089516637">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1578089516637" />
     <state x="450" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578048468833">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
