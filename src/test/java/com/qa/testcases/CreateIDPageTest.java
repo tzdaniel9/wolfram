@@ -40,14 +40,14 @@ public class CreateIDPageTest extends TestBase {
     @Test
     public void CreateWolfID() {
         signInPageTest.signInTest();
-        driver.findElement(By.id("create-account")).click();
-        driver.findElement(By.id("email")).sendKeys(prop.getProperty("email"));
-        driver.findElement(By.id("firstName")).sendKeys(prop.getProperty("FirstName"));
-        driver.findElement(By.id("lastName")).sendKeys(prop.getProperty("LastName"));
-        driver.findElement(By.id("password")).sendKeys(prop.getProperty("Password"));
-        driver.findElement(By.id("passwordConfirm")).sendKeys(prop.getProperty("ConfirmPassword"));
-        driver.findElement(By.id("accountAgreement1")).click();
-        driver.findElement(By.id("create-id-btn")).submit();
+        createIDPage.goToCreateAccount();
+        createIDPage.goToEmail(prop.getProperty("email"));
+        createIDPage.goToFirstName(prop.getProperty("FirstName"));
+        createIDPage.goToLastName(prop.getProperty("LastName"));
+        createIDPage.goToPassword(prop.getProperty("Password"));
+        createIDPage.goToPasswordConfirm(prop.getProperty("ConfirmPassword"));
+        createIDPage.goToAccountAgreement();
+        createIDPage.clickCreateWolframID();
     }
 
 

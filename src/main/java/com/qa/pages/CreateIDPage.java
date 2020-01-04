@@ -32,6 +32,12 @@ public class CreateIDPage extends TestBase {
     @FindBy(id = "create-id-btn")
     WebElement CreateWolframID;
 
+    @FindBy(id = "accountAgreement1")
+    WebElement accountAgreement1;
+
+    @FindBy(id = "accountAgreement2")
+    WebElement AccountAgreement2;
+
     public CreateIDPage() {
         PageFactory.initElements(driver, this);
     }
@@ -51,5 +57,35 @@ public class CreateIDPage extends TestBase {
     public void clickCreateWolframID() {
         CreateWolframID.click();
     }
+
+    public void goToCreateAccount(){
+        createAccountLink.click();
+    }
+     public  void goToEmail(String email){
+        this.email.sendKeys(prop.getProperty("email"));
+     }
+
+    public  void goToFirstName(String firstName){
+        this.firstName.sendKeys(prop.getProperty("FirstName"));
+    }
+
+    public  void goToLastName(String lastName){
+        this.lastName.sendKeys(prop.getProperty("LastName"));
+    }
+
+    public  void goToPassword(String password){
+        this.password.sendKeys(prop.getProperty("Password"));
+    }
+
+    public  void goToPasswordConfirm(String confirmPassword){
+        this.passwordConfirm.sendKeys(prop.getProperty("ConfirmPassword"));
+    }
+
+    public void goToAccountAgreement(){
+        accountAgreement1.click();
+    }
+
+
+
 
 }

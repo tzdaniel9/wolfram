@@ -3,12 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
   <test thread-count="5" name="WolfAssesment(failed)">
     <classes>
-      <class name="com.qa.testcases.AppsPageTest">
+      <class name="com.qa.testcases.CreateIDPageTest">
         <methods>
+          <include name="CreateWolfID"/>
           <include name="setUp"/>
-          <include name="MobileAppNavTest"/>
+          <include name="tearDown"/>
         </methods>
-      </class> <!-- com.qa.testcases.AppsPageTest -->
+      </class> <!-- com.qa.testcases.CreateIDPageTest -->
     </classes>
   </test> <!-- WolfAssesment(failed) -->
 </suite> <!-- Failed suite [Default Suite] -->
